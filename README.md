@@ -1,26 +1,14 @@
-#Mineria de datos
-##primer parcial
-
-#EJERCIO 1 -[Operación aritmetica] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%201%3A%20Operaci%C3%B3n%20aritm%C3%A9tica)
-
-#EJERCIO 2 -[Pizeria bella napoli] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%202%3A%20Pizzer%C3%ADa%20Bella%20Napoli.)
-
-#EJERCIO 3 -[ Tabla de multiplicar.] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/*Ejercicio%203%3A%20Tabla%20de%20multiplicar.)
-
-#EJERCIO 4 -[validación de contraseña] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%204%3A%20Validaci%C3%B3n%20de%20contrase%C3%B1a)
-
-#EJERCIO 5 -[repetir palabra] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%205%3A%20Repetir%20palabra)
-
-#EJERCIO 6 -[zumbido de chisporroteo] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%206%3A%20FizzBuzz)
-
-7 #EJERCIO -[número primo] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%207%3A%20N%C3%BAmero%20primo.)
-
-#EJERCIO 8 -[lista y tupla] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%208%20Lista%20y%20tupla)
-
-9 #EJERCIO -[función factorial] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%209%3A%20Funci%C3%B3n%20Factorial)
-
-#EJERCIO 10 -[función de iva] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%2010%3A%20Funci%C3%B3n%20de%20IVA.)
-
-11 #EJERCIO -[área y volumen] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%2011%3A%20%C3%81rea%20y%20volumen.)
-
-12 #EJERCIO -[doc CSV] (https://github.com/jordan130204-creator/EJERCICIOS-MINERIA-D./blob/main/Ejercicio%2012%3A%20doc%20CSV)
+| # | Ejercicio | Archivo |
+|---|---|---|
+| 1 | Operación aritmética | [operacion.py](Ejercicio%201%3A%20Operación%20aritmética) |
+| 2 | Pizzería Bella Napoli | [pizzeria.py](Ejercicio%202%3A%20Pizzería%20Bella%20Napoli.) |
+| 3 | Tablas de multiplicar | [tablas.py](*Ejercicio%203%3A%20Tabla%20de%20multiplicar.) |
+| 4 | Validación de contraseñas | [contrasenas.py](Ejercicio%204%3A%20Validación%20de%20contraseña) |
+| 5 | Repetir palabra | [repetir.py](Ejercicio%205%3A%20Repetir%20palabra) |
+| 6 | FizzBuzz | [fizzbuzz.py](Ejercicio%206%3A%20FizzBuzz) |
+| 7 | Número primo | [primo.py](Ejercicio%207%3A%20Número%20primo.) |
+| 8 | Lista y tupla | [lista_tupla.py](Ejercicio%208%20Lista%20y%20tupla) |
+| 9 | Funcion Factorial | [factorial.py](Ejercicio%209%3A%20Función%20Factorial) |
+| 10 | Función de IVA | [iva.py](Ejercicio%2010%3A%20Función%20de%20IVA.) |
+| 11 | Área y volumen | [area_volumen.py](Ejercicio%2011%3A%20Área%20y%20volumen.) |
+| 12 | Documentos CSV | [csv.py](Ejercicio%2012%3A%20doc%20CSV) |
