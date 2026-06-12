@@ -8,7 +8,7 @@
 | 6 | FizzBuzz | [fizzbuzz.py](Ejercicio%206%3A%20FizzBuzz) |
 | 7 | Número primo | [primo.py](Ejercicio%207%3A%20Número%20primo.) |
 | 8 | Lista y tupla | [lista_tupla.py](Ejercicio%208%20Lista%20y%20tupla) |
-| 9 | Funcion Factorial | [factorial.py]( Ejercicio%209%3A%20Función%20Factorial) |
+| 9 | Funcion Factorial | [factorial.py](Ejercicio%209%3A%20Función%20Factorial) |
 | 10 | Función de IVA | [iva.py](Ejercicio%2010%3A%20Función%20de%20IVA) |
 | 11 | Área y volumen | [area_volumen.py](Ejercicio%2011%3A%20Área%20y%20volumen.) |
 | 12 | Documentos CSV | [csv.py](Ejercicio%2012%3A%20doc%20CSV) |
