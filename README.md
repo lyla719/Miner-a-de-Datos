@@ -12,3 +12,4 @@
 | 10 | Función de IVA | [iva.py](Ejercicio%2010%3A%20Función%20de%20IVA) |
 | 11 | Área y volumen | [area_volumen.py](Ejercicio%2011%3A%20Área%20y%20volumen.) |
 | 12 | Documentos CSV | [csv.py](Ejercicio%2012%3A%20doc%20CSV) |
+| 1 | medidas de tendencia central 2do Parcial | [csv.py](  ) |
