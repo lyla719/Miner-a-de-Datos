@@ -1,0 +1,26 @@
+import pandas as pd
+
+# 1. Cargar los datos
+datos = pd.read_csv("estudiantes.csv")
+
+# 2. Definir la lista con los nombres exactos de las columnas que quieres analizar
+columnas = ["Edad", "Asistencia", "Tareas", "Calificacion_Final", "Horas_Estudio"]
+
+# 3. Calcular las medidas de dispersión para cada columna
+for col in columnas:
+    print(f"=== MEDIDAS DE DISPERSIÓN PARA: {col.upper()} ===")
+    
+    # Cálculos
+    maximo = datos[col].max()
+    minimo = datos[col].min()
+    rango = maximo - minimo
+    varianza = datos[col].var()
+    desviacion = datos[col].std()
+    
+    # Mostrar resultados
+    print(f"Máximo: {maximo}")
+    print(f"Mínimo: {minimo}")
+    print(f"Rango: {rango}")
+    print(f"Varianza: {varianza:.4f}")
+    print(f"Desviación estándar: {desviacion:.4f}")
+    print("-" * 40)
