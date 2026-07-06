@@ -14,3 +14,6 @@
 | 12 | Documentos CSV | [csv.py](Ejercicio%2012%3A%20doc%20CSV) |
 | 1 | medidas de tendencia central 2do Parcial | [csv.py](medidas%20de%20tendencia%20central%202do%20Parcial) |
 | 2 | medidas de dispercion 2do Parcial | [csv.py](medidas%20de%20dispercion%202do%20Parcial) |
+| 3 | Gráfica de Barras 2do Parcial | [csv.py](medidas%20de%20dispercion%202do%20Parcial) |
+| 4 | Histonograma 2do Parcial | [csv.py](medidas%20de%20dispercion%202do%20Parcial) |
+| 5 | Gráfica Box Plot "Bigotes" 2do Parcial | [csv.py](medidas%20de%20dispercion%202do%20Parcial) |
