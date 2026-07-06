@@ -1,0 +1,18 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("estudiantes.csv")
+
+df_agrupado = df.groupby("Horas_Estudio")["Calificacion_Final"].mean().reset_index()
+
+plt.figure(figsize=(9, 6))
+plt.bar(df_agrupado["Horas_Estudio"], df_agrupado["Calificacion_Final"], color="teal", alpha=0.8)
+
+plt.xlabel("Horas de Estudio")
+plt.ylabel("Calificación Final Promedio")
+plt.title("Calificación Final Promedio según Horas de Estudio")
+
+plt.grid(axis='y', linestyle='--', alpha=0.5) # Líneas horizontales de guía
+plt.tight_layout()
+
+plt.show()
