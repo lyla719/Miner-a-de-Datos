@@ -17,4 +17,4 @@
 | 3 | Gráfica de Dispersion 2do Parcial | [csv.py](Gr%C3%A1fica%20de%20Dispersi%C3%B3n%202do%20Parcial) |
 | 4 | Gráfica de Barras 2do Parcial | [csv.py](Gr%C3%A1fica%20de%20Barras%202do%20Parcial) |
 | 5 | Histonograma 2do Parcial | [csv.py](Histonograma%202do%20Parcial) |
-| 6 | Histonograma 2do Parcial | [csv.py](Gr%C3%A1fica%20Box%20Plot%20%22Bigotes%22%202do%20Parcial) |
+| 6 | Gráfica Box Plot "Bigotes" 2do Parcial | [csv.py](Gr%C3%A1fica%20Box%20Plot%20%22Bigotes%22%202do%20Parcial) |
