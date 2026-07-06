@@ -1,0 +1,13 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("estudiantes.csv")
+
+df["Grupo_Estudio"] = df["Horas_Estudio"].apply(lambda x: "Mucho" if x > df["Horas_Estudio"].mean() else "Poco")
+
+df.boxplot(column="Calificacion_Final", by="Grupo_Estudio")
+
+plt.ylabel("Calificación Final")
+plt.title("Calificaciones por Grupo de Estudio")
+plt.suptitle("") 
+plt.show()
