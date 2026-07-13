@@ -19,4 +19,4 @@
 | 5 | Histonograma 2do Parcial | [csv.py](Histonograma%202do%20Parcial) |
 | 6 | Gráfica Box Plot "Bigotes" 2do Parcial | [csv.py](Gr%C3%A1fica%20Box%20Plot%20%22Bigotes%22%202do%20Parcial) |
 | 7 | ejercicio del Arbol 2do parcial | [csv.py](WhatsApp%20Image%202026-07-08%20at%208.55.21%20AM.jpeg) |
-| 8 | modelos de clasificacion 2do parcial | [csv.py](WhatsApp%20Image%202026-07-08%20at%208.55.21%20AM.jpeg) |
+| 8 | modelos de clasificacion 2do parcial | [csv.py](WhatsApp%20Image%202026-07-13%20at%2010.32.21%20AM.jpeg) |
