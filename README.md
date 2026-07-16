@@ -21,4 +21,4 @@
 | 7 | ejercicio del Arbol 2do parcial | [csv.py](WhatsApp%20Image%202026-07-08%20at%208.55.21%20AM.jpeg) |
 | 8 | modelos de clasificacion 2do parcial | [csv.py](WhatsApp%20Image%202026-07-13%20at%2010.32.21%20AM.jpeg) |
 | 9 | PRACT.7 Metodos Estadisticos y Modelos Predictivos 2do parcial | [csv.py](PRACT.7%20Metodos%20Estadisticos%20y%20Modelos%20Predictivos%202do%20parcial) |
-| 9 | PRACT.7 IMAGEN DEL DIAGRAMA DE ÁRBOL | [csv.py](PRACT.7%20Metodos%20Estadisticos%20y%20Modelos%20Predictivos%202do%20parcial) |
+| 9 | PRACT.7 IMAGEN DEL DIAGRAMA DE ÁRBOL | [csv.py](practica%207%20a.m..png) |
