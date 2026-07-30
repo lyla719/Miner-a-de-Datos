@@ -22,4 +22,4 @@
 | 8 | modelos de clasificacion 2do parcial | [csv.py](WhatsApp%20Image%202026-07-13%20at%2010.32.21%20AM.jpeg) |
 | 9 | PRACT.7 Metodos Estadisticos y Modelos Predictivos 2do parcial | [csv.py](PRACT.7%20Metodos%20Estadisticos%20y%20Modelos%20Predictivos%202do%20parcial) |
 | 1 | PRACT.1 K-MEANS 3er PARCIAL | [csv.py](PRACT.1%20K-MEANS%203er%20PARCIAL) |
-| 1 | PRACT.2 metodo codo 3er PARCIAL | [csv.py](PRACT.1%20K-MEANS%203er%20PARCIAL) |
+| 1 | PRACT.2 metodo codo 3er PARCIAL | [csv.py]() |
